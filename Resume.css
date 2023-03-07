@@ -1,0 +1,30 @@
+*
+header{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: bisque;
+    border-style: solid;
+    border-color: black;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;  
+    margin-right: auto;
+}
+
+th, td{
+    border: 1px solid black;
+    border: 1px solid black;
+	padding: 8px;
+}
+
+thead,th{
+    width: 25%;
+}
+
+h4{
+    font-size: 19px;
+}
